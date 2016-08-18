@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "32524380174",
+    "firebase_url": "https://foodchooser-cf58f.firebaseio.com",
+    "project_id": "foodchooser-cf58f",
+    "storage_bucket": "foodchooser-cf58f.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:32524380174:android:5d0468eb772af43b",
+        "android_client_info": {
+          "package_name": "co.riiid.foodchooser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "32524380174-o0qgfirn555g5aq6uvqlfcjh0pn68pg0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAoF62WCSCSRpHjQfSxwQlKpao59mdNY_A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

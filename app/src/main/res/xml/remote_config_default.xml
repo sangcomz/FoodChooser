@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?><!-- START xml_defaults -->
+<defaultsMap>
+    <entry>
+        <key>app_title</key>
+        <value>Default Food Chooser</value>
+
+        <key>image_login</key>
+        <value>
+            https://firebasestorage.googleapis.com/v0/b/foodchooser-cf58f.appspot.com/o/system%2Fbg_login.png?alt=media&amp;token=1f98cee9-e4c5-49b9-888b-e2b3c59744a7
+        </value>
+    </entry>
+</defaultsMap><!-- END xml_defaults -->
